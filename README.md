@@ -2,6 +2,8 @@
 Essentially a python Hello, World. Contains the following rudimentary concepts:
 \
 \
+time module
+\
 User-defined string variables
 \
 User-defined integer variables
