@@ -21,3 +21,5 @@ Defined functions
    - Resolved this by using a defined function called glug()
 
 2. Allow for variances of yes such as "yeah", "okay", etc. Maybe implement an "I didn't hear you, was that a yes?" string or something similar. Same goes for negative responses.
+
+3. Continue offering drinks and keep track of how many drinks the user has had. Inform them before script exits.
