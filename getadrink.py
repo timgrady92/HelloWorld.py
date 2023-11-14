@@ -20,7 +20,7 @@ if age >= 21:
 else:
     choice = input("Would you like to get a soda? Yes or no? ")
     if choice.lower() == "yes":
-        print("Alright, let's get some McDonald's Sprite!")
+        print("Alright, let's get some McDonald's™ Sprite™!")
         time.sleep(1)
         print("Glug...")
         time.sleep(1)
@@ -30,7 +30,7 @@ else:
         time.sleep(2)
         print("That was delightful.")
     else:
-        print("Okay, I'll have some Sprite by my lonesome.")
+        print("Okay, I'll have some Sprite™ by my lonesome.")
         
 time.sleep(2)
 
