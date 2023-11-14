@@ -17,7 +17,5 @@ Case-insensitive input
 \
 Defined functions
 # Goals:
-✅️ Learn to compress the "time.sleep(1) print("Glug...") function so I can re-use it without cluttering up the code
-\
-\
-Resolved this by using a defined function called glug()
+✅️ 1. Learn to compress the "time.sleep(1) print("Glug...") function so I can re-use it without cluttering up the code\
+    Resolved this by using a defined function called glug()
