@@ -15,6 +15,8 @@ If Else statements
 \
 Case-insensitive input
 \
+While loop
+\
 Defined functions
 # Goals:
 1. ✅️ Learn to compress the "time.sleep(1) print("Glug...") function so I can re-use it without cluttering up the code
