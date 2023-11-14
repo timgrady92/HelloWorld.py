@@ -14,6 +14,8 @@ User-defined integer variables
 If Else statements
 \
 Case-insensitive input
+\
+Defined functions
 # Goals:
 ✅️ Learn to compress the "time.sleep(1) print("Glug...") function so I can re-use it without cluttering up the code
 \
