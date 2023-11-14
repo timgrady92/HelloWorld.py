@@ -23,4 +23,5 @@ Defined functions
 2. Allow for variances of yes such as "yeah", "okay", etc. Maybe implement an "I didn't hear you, was that a yes?" string or something similar. Same goes for negative responses.
 
 3. ✅️ Continue offering drinks and keep track of how many drinks the user has had. Inform them before script exits.
-   - Implemented this feature in getadrinkexpanded.py by creating the drink_count variables and adding 1 value per complete loop. Doubled the value at the end of the script to simulate myself and the user having drinks together.  
+   - Implemented this feature in getadrinkexpanded.py by creating the drink_count variables and adding 1 value per complete loop.
+   - Doubled the value at the end of the script to simulate myself and the user having drinks together.  
