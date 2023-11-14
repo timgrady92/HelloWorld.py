@@ -1,5 +1,8 @@
 # getadrink.py
-Essentially a python Hello, World. Contains the following rudimentary concepts:
+Essentially a python Hello, World. Now with 100% less copyright infringement.
+\
+\
+Contains the following rudimentary concepts:
 \
 \
 Time module
