@@ -20,4 +20,4 @@ Defined functions
 1. ✅️ Learn to compress the "time.sleep(1) print("Glug...") function so I can re-use it without cluttering up the code\
    - Resolved this by using a defined function called glug()
 \
-2. Allow for variances of yes such as "yeah", "okay", etc. Maybe implement an "I didn't hear you, was that a "yes"? string or something similar.
+2. Allow for variances of yes such as "yeah", "okay", etc. Maybe implement an "I didn't hear you, was that a yes?" string or something similar. Same goes for negative responses.
